@@ -88,6 +88,16 @@ HR-Analytics-Employee-Attrition/
 
 ---
 
+## Repository Contents
+
+- 📂 Dataset
+- 🐍 Python Scripts
+- 🗄 SQL Queries
+- 📊 Power BI Dashboard
+- 📄 Documentation
+
+---
+
 # Dataset
 
 - Source: IBM HR Analytics Employee Attrition Dataset
