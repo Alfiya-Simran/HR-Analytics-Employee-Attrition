@@ -10,6 +10,13 @@ An end-to-end HR Analytics project built using **Python, MySQL, SQL, Power BI, a
 
 ---
 
+## Dashboard Files
+
+- 📊 Power BI Report: `Power BI/HR Analytics Dashboard.pbix`
+- 📄 Dashboard PDF: `Power BI/HR Analytics Dashboard.pdf`
+
+---
+
 # Project Overview
 
 Employee attrition is one of the biggest challenges faced by organizations. Understanding why employees leave helps HR teams improve retention, workforce planning, employee satisfaction, and recruitment strategies.
